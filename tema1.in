@@ -1,0 +1,12 @@
+2
+1 A
+2 B
+8
+ADD_INCIDENT 1 low "noise complaint"
+ADD_INCIDENT 2 high "fire in building"
+ADD_INCIDENT 3 medium "a car accident"
+DISPATCH
+DISPATCH
+SHOW_INCIDENT 2
+SHOW_INCIDENT 3
+DISPATCH
